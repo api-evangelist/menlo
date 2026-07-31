@@ -1,0 +1,26 @@
+# Menlo Security
+
+> Menlo Security is a cybersecurity company that secures the enterprise browser, treating the browser as the point of control for protecting both human users and AI agents. Its cloud-native Secure Enterprise Browser and Menlo Cloud Security Platform apply remote browser isolation to stop zero-day phishing, ransomware, and malware before they reach the endpoint. Menlo does not publish a public developer API or OpenAPI surface; this profile is an API Evangelist network company record.
+
+## Company
+- [Website](https://www.menlosecurity.com/): Menlo Security corporate site
+- [Pricing](https://www.menlosecurity.com/pricing): Variable, contact-sales pricing based on products and users
+- [Blog](https://www.menlosecurity.com/blog): Menlo Security blog
+- [Trust Center](https://app.vanta.com/menlosecurity.com/trust/1wex2ncj4qnhvo9p19xxna): Vanta-hosted trust and compliance portal
+- [Support Portal](https://csportal.menlosecurity.com/hc/en-us): Customer support and help center
+
+## Products
+- Secure Enterprise Browser — cloud-native browser with remote browser isolation
+- AI Agent Security — governance and protection for browser-based AI agents
+- AI Adaptive DLP — data loss prevention
+- File Security — threat prevention for downloads and uploads
+- Remote Access — zero-trust access to private applications
+- Threat Prevention — zero-day phishing and ransomware protection
+
+## Legal
+- [Terms](https://www.menlosecurity.com/terms)
+- [Privacy Policy](https://www.menlosecurity.com/privacy-policy)
+
+## Notes
+- No public API / OpenAPI / MCP server / SDK surface is published as of this record.
+- Backed by investors including General Catalyst, Vista Equity Partners, JPMorgan, American Express Ventures, and HSBC.

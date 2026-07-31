@@ -1,0 +1,19 @@
+generated: '2026-07-20'
+method: searched
+source: https://www.menlosecurity.com/
+probe: false
+url: https://app.vanta.com/menlosecurity.com/trust/1wex2ncj4qnhvo9p19xxna
+notes: >-
+  Menlo Security operates a public Vanta-hosted Trust Center (linked from the
+  corporate homepage). The trust center is a JavaScript single-page application,
+  so specific certifications could not be scraped/verified programmatically and
+  are intentionally NOT asserted here to avoid fabrication. Request access to the
+  Vanta portal for the authoritative list of certifications and reports.
+certifications: []
+evidence:
+- source: https://www.menlosecurity.com/
+  kind: homepage-link
+  detail: Trust Center link to Vanta portal
+- source: security/menlo-domain-security.yml
+  kind: caa-iodef
+  detail: 'CAA iodef security contact: mailto:seceng@menlosecurity.com'
